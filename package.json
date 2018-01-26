@@ -1,0 +1,16 @@
+{
+  "name": "sample-calendar-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^25.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
